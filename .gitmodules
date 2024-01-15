@@ -1,3 +1,6 @@
 [submodule "3jsCastle"]
 	path = 3jsCastle
 	url = https://github.com/anshul202/3jsCastle
+[submodule "vanillajs"]
+	path=vanillajs
+	url= https://github.com/anshul202/vanillajs
